@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1625661292 source:c:\users\franco\desktop\parcialvacunas\segundoparcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paises.h"
+	"informes.h"
+	"LinkedList.h"
+
+1625664464 c:\users\franco\desktop\parcialvacunas\segundoparcial\paises.h
+	"LinkedList.h"
+
+1625661434 c:\users\franco\desktop\parcialvacunas\segundoparcial\linkedlist.h
+
+1625661434 c:\users\franco\desktop\parcialvacunas\segundoparcial\informes.h
+
+1625661246 source:c:\users\franco\desktop\parcialvacunas\segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625663927 source:c:\users\franco\desktop\parcialvacunas\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"utn.h"
+	"paises.h"
+
+1625662799 c:\users\franco\desktop\parcialvacunas\segundoparcial\utn.h
+
+1625664402 c:\users\franco\desktop\parcialvacunas\segundoparcial\parsers.h
+	"LinkedList.h"
+	"paises.h"
+
+1625664236 source:c:\users\franco\desktop\parcialvacunas\segundoparcial\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"paises.h"
+
+1625663853 source:c:\users\franco\desktop\parcialvacunas\segundoparcial\parsers.c
+	<stdio.h>
+	<stdlib.h>
+	"parsers.h"
+
+1625662896 source:c:\users\franco\desktop\parcialvacunas\segundoparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1625663992 source:c:\users\franco\desktop\parcialvacunas\segundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"controller.h"
+
+1625663585 c:\users\franco\desktop\parcialvacunas\segundoparcial\controller.h
+	"LinkedList.h"
+	"paises.h"
+	"parsers.h"
+
